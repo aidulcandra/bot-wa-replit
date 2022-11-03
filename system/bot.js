@@ -1,3 +1,5 @@
+// By Aidul Candra
+
 import {rm} from 'fs/promises'
 import makeWASocket, {
   downloadMediaMessage, isJidStatusBroadcast, isJidGroup, S_WHATSAPP_NET
